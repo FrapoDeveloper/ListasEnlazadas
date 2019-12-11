@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1541116944 source:c:\users\fr\desktop\frapo lista todos\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<cstdlib>
+
+1541116946 source:c:\users\fran_\onedrive\escritorio\menu lsen\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<cstdlib>
+
+1541116946 source:e:\unt\ciclo 3\estrategias algoritmicas\unidad i\mis codigos\fraporitmos-menulsen\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<cstdlib>
+
